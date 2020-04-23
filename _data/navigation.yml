@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Quick-Start Guide"
-    url: /_posts/Installing Torch.md/
+    url: /_posts/Installing Torch.md
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
