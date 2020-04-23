@@ -93,7 +93,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Seunghui Jang1"
+  name             : "Seunghui Jang"
   avatar           : "avatar.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "be a small person."
   location         : "Towson, MD"
