@@ -22,4 +22,4 @@ Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your
 
 ## Notable Features
 
-- hi
+- hi2
