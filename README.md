@@ -1,2 +1,2 @@
-# sjang3.github.io 
+# s1jang3.github.io 
 ## hello github pages
