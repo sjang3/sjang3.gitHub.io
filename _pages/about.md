@@ -5,9 +5,13 @@ author_profile: true
 layout: single
 ---
 
-Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your personal site, blog, or portfolio on GitHub or self-hosting on your own server. As the name implies --- styling is purposely minimalistic to be enhanced and customized by you :smile:.
+# Comming soon 
+
+Woring on building a new Research blog
+
+
 
 ## Welcome to my Research Blog
 
-- I'm Seunghui Jang
+### 		Hi, This is Seunghui Jang
 
