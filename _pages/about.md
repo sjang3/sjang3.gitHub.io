@@ -11,7 +11,7 @@ Woring on building a new Research blog
 
 
 
-## Welcome to my Research Blog1
+## Welcome to my Research Blog
 
 ### 		Hi, This is Seunghui Jang
 
