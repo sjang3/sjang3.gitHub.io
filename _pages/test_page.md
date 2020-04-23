@@ -1,6 +1,6 @@
 ---
 title: "Test page"
-sitemap: false
+layout: single
 author_profile: true
 permalink: /test_page
 ---
