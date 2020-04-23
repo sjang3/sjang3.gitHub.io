@@ -95,7 +95,7 @@ analytics:
 author:
   name             : "Seunghui Jang"
   avatar           : "avatar.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "be a small person."
+  bio              : "be a *small* person."
   location         : "Towson, MD"
   email            : "sjang3@students.towson.edu"
   links:
