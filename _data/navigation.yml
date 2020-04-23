@@ -3,7 +3,7 @@ main:
   - title: "Home"
     url: https://sjang3.github.io/
   - title: "About"
-    url: /about/
+    url: /about
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
