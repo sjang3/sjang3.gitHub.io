@@ -9,3 +9,4 @@ Minimal Mistakes is a flexible two-column Jekyll theme. Perfect for hosting your
 ## Welcome to my Research Blog
 
 - I'm Seunghui Jang
+
