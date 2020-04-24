@@ -5,13 +5,8 @@ author_profile: true
 layout: single
 ---
 
-# Comming soon 
+### Seunghui Jang
 
-Woring on building a new Research blog
+​	*is currently a PhD student at Towson University*
 
-
-
-## Welcome to my Research Blog
-
-### 		Hi, This is Seunghui Jang
-
+- AI researcher(computer vision, data anaysis)
